@@ -1,25 +1,22 @@
-apm install
-
-README.md
-atom-beautify
-atom-material-ui
-atom-prettify
-atom-ternjs
-autoclose-html
-autocomplete-paths
-busy-signal
-chester-atom-syntax
-emmet
-expand-region
-language-graphql
-language-pug-jade
-linter
-linter-eslint
-linter-pug
-linter-ui-default
-open-in-browser
-pigments
-prettier-atom
-react
-seti-icons
-standard-formatter
+apm install atom-beautify
+ apm install atom-material-ui
+ apm install atom-prettify
+ apm install atom-ternjs
+ apm install autoclose-html
+ apm install autocomplete-paths
+ apm install busy-signal
+ apm install chester-atom-syntax
+ apm install emmet
+ apm install expand-region
+ apm install language-graphql
+ apm install language-pug-jade
+ apm install linter
+ apm install linter-eslint
+ apm install linter-pug
+ apm install linter-ui-default
+ apm install open-in-browser
+ apm install pigments
+ apm install prettier-atom
+ apm install react
+ apm install seti-icons
+ apm install standard-formatter
