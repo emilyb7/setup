@@ -6,6 +6,8 @@
 - Zsh setup: http://sourabhbajaj.com/mac-setup/iTerm/zsh.html
 - Profile from `iterm2.plist`
 
+## Get homebrew!
+
 
 ## Git
 
@@ -19,7 +21,9 @@
 
 ## Node
 
-- Get NVM https://github.com/creationix/nvm
+- Get NVM `brew install nvm`
+- `nvm install node` (gets latest version)
+- Install latest node version
 - Useful global packages:
 
 ```sh
