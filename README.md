@@ -4,7 +4,7 @@
 
 - Download https://www.iterm2.com/
 - Zsh setup: http://sourabhbajaj.com/mac-setup/iTerm/zsh.html
-- Profile from `iterm2.plist`
+- Profile from this directory!  
 
 ## Get homebrew!
 
@@ -29,3 +29,13 @@
 ```sh
 npm i -g eslint browserify nodemon
 ```
+
+## Postgres
+
+https://postgresapp.com/
+
+
+## Heroku CLI
+
+https://devcenter.heroku.com/articles/heroku-cli
+`brew install heroku/brew/heroku`
