@@ -23,6 +23,28 @@
   'console.log':
     'prefix': 'log'
     'body': 'console.log(${1:"crash"})$2'
+  'react':
+    'prefix': 'importreact'
+    'body': 'import React from \'react\''
+  'flow':
+    'prefix': 'flow'
+    'body': '//@flow'
+  'importlodash':
+    'prefix': 'lodash'
+    'body': 'import {${1:get}} from \'lodash/fp\''
+  'reduxconnect':
+    'prefix': 'reduxconnect'
+    'body': 'import { connect } from \'react-redux\''
+  'mapStateToProps':
+    'prefix': 'mapstatetoprops'
+    'body': 'const mapStateToProps = state => ({})'
+  'mapDispatchToProps':
+    'prefix': 'mapdispatchtoprops'
+    'body': 'const mapDispatchToProps = dispatch => ({})'
+  'qs':
+    'prefix': 'qs'
+    'body': 'import querystring from \'querystring\’'
+
 
 '.text.html.basic':
   'meta tag':
