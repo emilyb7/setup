@@ -69,6 +69,10 @@ https://devcenter.heroku.com/articles/heroku-cli
 - postico
 - slack
 - robo 3t
-- zeplin
 - zoom
 - firefox
+- postman
+
+for work
+- zeplin
+- sourcetree
