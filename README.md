@@ -8,6 +8,29 @@
 
 ## Get homebrew!
 
+Packages I have:
+- elasticsearch	
+- icu4c		
+- nvm		
+- readline	
+- zsh
+- openssl		
+- redis		
+- zsh-completions
+- gdbm		
+- libpng		
+- pcre		
+- sqlite
+- git		
+- python		
+- heroku		
+- mongodb		
+- python3		
+- heroku-node	
+- node		
+- rabbitmq	
+- yarn
+
 
 ## Git
 
