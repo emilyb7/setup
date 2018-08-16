@@ -39,3 +39,13 @@ https://postgresapp.com/
 
 https://devcenter.heroku.com/articles/heroku-cli
 `brew install heroku/brew/heroku`
+
+## Other apps
+
+- docker
+- postico
+- slack
+- robo 3t
+- zeplin
+- zoom
+- firefox
