@@ -1,6 +1,6 @@
 # setup!
 
-## iterm2
+## iterm2!
 
 - Download https://www.iterm2.com/
 - Zsh setup: http://sourabhbajaj.com/mac-setup/iTerm/zsh.html
